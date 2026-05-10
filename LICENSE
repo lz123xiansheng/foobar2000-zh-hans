@@ -1,0 +1,62 @@
+foobar2000 中文汉化包 非商业开源协议
+======================================
+
+版本 v3.3, 2026-05-10
+基于 GNU General Public License v3.0 修改
+
+---
+
+## 协议条款
+
+### 1. 允许的行为
+- **自由使用**：您可以出于任何非商业目的自由下载、安装和使用本汉化包
+- **自由分发**：您可以自由复制和分发本汉化包的完整副本
+- **自由修改**：您可以对本汉化包进行修改和二次开发
+
+### 2. 限制条件
+- **非商业用途**：禁止将本汉化包或其衍生作品用于任何商业目的，包括但不限于：销售、捆绑销售、作为商业产品的组成部分、收取服务费等
+- **Copyleft 传染性**：任何基于本汉化包的衍生作品（包括修改、扩展、整合版本）**必须**以相同的许可证条款开源发布
+- **保留署名**：分发或修改时须保留原作者署名及原始许可证声明
+
+### 3. 免责声明
+本汉化包按"原样"提供，不提供任何明示或暗示的保证。使用者须自行承担使用风险。
+
+### 4. 适用法律
+本协议受中华人民共和国法律管辖。
+
+---
+
+## 许可证文本
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version, with the following additional
+restriction:
+
+### Additional restriction (Non-Commercial Clause):
+
+You may not use, distribute, or sublicense this software or any
+derivative works for commercial purposes. "Commercial purposes"
+means any activity that generates revenue, including but not limited
+to: selling, licensing, bundling with commercial products, providing
+paid support or services, or incorporating into commercial software.
+
+### Copyleft requirement:
+
+Any derivative work based on this software must be distributed under
+the same license terms, including this Non-Commercial Clause.
+
+---
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+完整 GPL-3.0 协议文本见：https://www.gnu.org/licenses/gpl-3.0.txt

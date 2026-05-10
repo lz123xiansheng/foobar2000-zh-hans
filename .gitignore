@@ -1,0 +1,27 @@
+# Build artifacts
+*.dylib
+*.o
+insert_dylib
+finalize_v3
+
+# macOS
+.DS_Store
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+/tmp/*
+
+# Backups
+*_backup*
+*.bak
