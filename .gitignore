@@ -1,8 +1,11 @@
 # Build artifacts
 *.dylib
 *.o
-insert_dylib
 finalize_v3
+
+# But keep deploy/ binaries tracked
+!deploy/fb2k_hook_v3.dylib
+!deploy/insert_dylib
 
 # macOS
 .DS_Store
